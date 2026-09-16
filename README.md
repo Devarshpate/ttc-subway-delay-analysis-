@@ -1,4 +1,3 @@
-# ttc-subway-delay-analysis-
 # TTC Subway Delay Analysis
 # Data source: City of Toronto Open Data Portal
 # https://open.toronto.ca/dataset/ttc-subway-delay-data/
